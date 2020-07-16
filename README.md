@@ -44,7 +44,7 @@
 
 
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://www.twitter.com/yesilyurttemre"><img src="https://media1.tenor.com/images/f12a889f2c3dc76263eb4319178524f9/tenor.gif?itemid=10630008" width="80px" data-canonical-src="https://media1.tenor.com/images/f12a889f2c3dc76263eb4319178524f9/tenor.gif?itemid=10630008" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.twitter.com/yesilyurttemre"><img src="https://media1.tenor.com/images/f12a889f2c3dc76263eb4319178524f9/tenor.gif?itemid=10630008" width="50px" data-canonical-src="https://media1.tenor.com/images/f12a889f2c3dc76263eb4319178524f9/tenor.gif?itemid=10630008" style="max-width:100%;">dsfdsfdsfds</a></p>
 
 
 
