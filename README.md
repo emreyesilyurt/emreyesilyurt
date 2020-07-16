@@ -1,5 +1,11 @@
 ### Hello World! 👋
 
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3><a id="user-content-hello-world" class="anchor" aria-hidden="true" href="#hello-world"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="64" height="64" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hello World!</h3>
+<p><a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"><img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="90px" data-canonical-src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" style="max-width:100%;"></a></p>
+
+
+
+
 
 **emreyesilyurt/emreyesilyurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,16 +23,22 @@ Here are some ideas to get you started:
 
 
 
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3><a id="user-content-hello-world" class="anchor" aria-hidden="true" href="#hello-world"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hello World!</h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"><img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="90px" data-canonical-src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" style="max-width:100%;"></a></p>
-</article>
 
-<!--  
+
+
 
   
-<p>I am a software engineer from Turkey<g-emoji class="g-emoji" alias="tr" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f7.png">🇹🇷</g-emoji> I describe myself as a Deep Learning Enthusiast. The third year of my university I met with deep learning. I love to code with Python. You can reach me on <a href="https://www.hackerrank.com/isen_kubilay?hr_r=1" rel="nofollow">hackerrank</a>, <a href="https://www.datacamp.com/profile/isenkubilay" rel="nofollow">datacamp</a> and <a href="https://repl.it/@Kubilayen" rel="nofollow">repl.it</a></p>
+<p>Hello, I am a Management Information Systems student at Dokuz Eylul University. I am very curious about Data Science and Machine learning and I am constantly improving myself. I am developing projects on my own, trying to share instructive content in my medium and github accounts. Links to my accounts for you to review;
+  
+  
+<a href="kaggle.com/yesilyurttemre" rel="nofollow">Kaggle</a>, <a href="medium.com/@emreyesilyurt
+" rel="nofollow">Medium</a> and <a href="https://www.linkedin.com/in/yesilyurtemre/" rel="nofollow">Linkedin</a></p>
+</article>
+<!--  
+
 <p><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns: he/him</p>
 <p>Portfolio site: <a href="https://kubilayisen.com/" rel="nofollow">Portfolio</a></p>
+
 <p><strong><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Where to find me:</strong></p>
 <p><a href="https://twitter.com/isenkubilay" rel="nofollow"><img src="https://camo.githubusercontent.com/b8674ed0216d5c709f8537e9fb1d5efb3fd8dd8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d406973656e6b7562696c61792d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d316361306631266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f747769747465722e636f6d2f6973656e6b7562696c6179" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/-@isenkubilay-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/isenkubilay" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/kubilayisen/" rel="nofollow"><img src="https://camo.githubusercontent.com/422798254e2d84b03ea0c2db139e0f7f6680c7a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6b7562696c61796973656e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6b7562696c61796973656e2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-kubilayisen-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/kubilayisen/" style="max-width:100%;"></a>
 <a href="mailto:isen.kubilay@gmail.com"><img src="https://camo.githubusercontent.com/cac8c69102e95b72b3abc5fe32455625ed6123b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6973656e2e6b7562696c617940676d61696c2e636f6d2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6973656e2e6b7562696c617940676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-isen.kubilay@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:isen.kubilay@gmail.com" style="max-width:100%;"></a></p>
