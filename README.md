@@ -36,7 +36,9 @@
 <p>Portfolio site: <a href="https://kubilayisen.com/" rel="nofollow">Portfolio</a></p>
 
 <p><strong><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Where to find me:</strong></p>
-<p><a href="https://twitter.com/yesilyurttemre" rel="nofollow"><img src="https://media1.tenor.com/images/f12a889f2c3dc76263eb4319178524f9/tenor.gif?itemid=10630008" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/-@yesilyurttemre-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/yesilyurttemre" style="max-width:100%;"></a> 
+
+
+<p><a href="https://twitter.com/yesilyurttemre" rel="nofollow"><img src="" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/-@yesilyurttemre-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/yesilyurttemre" style="max-width:100%;"></a> 
   
  </article> 
  <!--  
