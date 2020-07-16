@@ -3,15 +3,6 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"><img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="90px" data-canonical-src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" style="max-width:100%;"></a></p>
 
 
-
-
-
-
-
-
-
-
-
   
 <p>Hello, I am a Management Information Systems student at Dokuz Eylul University. I am very curious about Data Science and Machine learning and I am constantly improving myself. I am developing projects on my own, trying to share instructive content in my medium and github accounts. 
   
@@ -33,7 +24,7 @@
 - ⚡ Fun fact: ...
 
 
- <!-- <p>Portfolio site: <a href="https://emreyesilyurt.org/" rel="nofollow">Portfolio</a></p>-->  
+<p>Portfolio site: <a href="https://emreyesilyurt.org/" rel="nofollow">Portfolio</a></p>
  
 
  
