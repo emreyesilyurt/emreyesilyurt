@@ -19,8 +19,9 @@
 
   
 <p><a href="https://twitter.com/yesilyurttemre" rel="nofollow"><img src="https://img.shields.io/badge/-@yesilyurttemre-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/yesilyurttemre" alt="Twitter" data-canonical-src="https://img.shields.io/badge/-@yesilyurttemre-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/yesilyurttemre" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/yesilyurtemre/" rel="nofollow"><img src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/yesilyurtemre/" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/yesilyurtemre/" style="max-width:100%;"></a> <a href="https://kaggle.com/yesilyurttemre" rel="nofollow"><img src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Kaggle&amp;logoColor=white&amp;link=https://kaggle.com/yesilyurttemre" alt="Kaggle Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Kaggle&amp;logoColor=white&amp;link=https://kaggle.com/yesilyurttemre" style="max-width:100%;"></a> <a href="https://medium.com/@emreyesilyurt" rel="nofollow"><img src="https://img.shields.io/badge/-yesilyurtemre-black?style=flat-square&amp;logo=Medium&amp;logoColor=white&amp;link=https://medium.com/@emreyesilyurt" alt="Medium Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurtemre-black?style=flat-square&amp;logo=Medium&amp;logoColor=white&amp;link=https://medium.com/@emreyesilyurt" style="max-width:100%;"></a> <a href="mailto:yesilyurttemre@gmail.com"><img src="https://img.shields.io/badge/-yesilyurttemre@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:yesilyurttemre@gmail.com" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurttemre@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:yesilyurttemre@gmail.com" style="max-width:100%;"></a></p>
- 
- 
+  
+  </article> 
+  <!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -32,30 +33,11 @@
 - ⚡ Fun fact: ...
 
 
-
-
-
-
-<p><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns: he/him</p>
-
  <!-- <p>Portfolio site: <a href="https://emreyesilyurt.org/" rel="nofollow">Portfolio</a></p>-->  
-
-
-
-
-
-
-
-
+ 
 
  
- 
- 
- 
- 
-  </article> 
- 
- <!--
+
 
 <p><strong><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Currently working as:</strong> Software Engineer at <a href="https://www.pirireis.com.tr/" rel="nofollow"><b>PiriReis Bilişim</b></a></p>
 <p><strong>👨🏻‍💻 Currently working on:</strong></p>
