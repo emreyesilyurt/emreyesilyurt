@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <p>Hello, I am a Management Information Systems student at Dokuz Eylul University. I am very curious about Data Science and Machine learning and I am constantly improving myself. I am developing projects on my own, trying to share instructive content in my medium and github accounts. Links to my accounts for you to review;
   
   
-<a href="kaggle.com/yesilyurttemre" rel="nofollow">Kaggle</a>, <a href="medium.com/@emreyesilyurt
+<a href="https://www.kaggle.com/yesilyurttemre" rel="nofollow">Kaggle</a>, <a href="https://www.medium.com/@emreyesilyurt
 " rel="nofollow">Medium</a> and <a href="https://www.linkedin.com/in/yesilyurtemre/" rel="nofollow">Linkedin</a></p>
 </article>
 <!--  
