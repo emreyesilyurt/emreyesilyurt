@@ -53,7 +53,7 @@
 
 
 
-<a href="mailto:yesilyurttemre@gmail.com"><img src="https://github.com/emreyesilyurt/emreyesilyurt/blob/master/images/mail.png?raw=true" alt="Gmail Badge" data-canonical-src="https://github.com/emreyesilyurt/emreyesilyurt/blob/master/images/mail.png?raw=true" style="max-width:100%;"></a></p>
+<a href="mailto:yesilyurttemre@gmail.com"><img src="https://img.shields.io/badge/-yesilyurttemre@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:yesilyurttemre@gmail.com" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurttemre@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:yesilyurttemre@gmail.com" style="max-width:100%;"></a></p>
  <!--
 
 <p><strong><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Currently working as:</strong> Software Engineer at <a href="https://www.pirireis.com.tr/" rel="nofollow"><b>PiriReis Bilişim</b></a></p>
