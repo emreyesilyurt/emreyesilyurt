@@ -53,10 +53,10 @@
 
 
 
-<a href="https://kaggle.com/yesilyurttemre" rel="nofollow"><img src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Kaggle&amp;logoColor=white&amp;link=https://www.linkedin.com/in/yesilyurtemre/" alt="Kaggle Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Kaggle&amp;logoColor=white&amp;link=https://kaggle.com/yesilyurttemre" style="max-width:100%;"></a> 
+<a href="https://kaggle.com/yesilyurttemre" rel="nofollow"><img src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Kaggle&amp;logoColor=white&amp;link=https://kaggle.com/yesilyurttemre" alt="Kaggle Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Kaggle&amp;logoColor=white&amp;link=https://kaggle.com/yesilyurttemre" style="max-width:100%;"></a> 
 
 
-<a href="https://kaggle.com/yesilyurttemre" rel="nofollow"><img src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Kaggle&amp;logoColor=white&amp;link=https://www.linkedin.com/in/yesilyurtemre/" alt="Medium Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Kaggle&amp;logoColor=white&amp;link=https://kaggle.com/yesilyurttemre" style="max-width:100%;"></a> 
+<a href="https://kaggle.com/yesilyurttemre" rel="nofollow"><img src="https://img.shields.io/badge/-yesilyurtemre-black?style=flat-square&amp;logo=Medium&amp;logoColor=white&amp;link=https://medium.com/@emreyesilyurt" alt="Medium Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurtemre-black?style=flat-square&amp;logo=Medium&amp;logoColor=white&amp;link=https://medium.com/@emreyesilyurt" style="max-width:100%;"></a> 
 
 
 
