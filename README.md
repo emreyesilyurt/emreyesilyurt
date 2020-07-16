@@ -44,7 +44,9 @@
 
 
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://media1.tenor.com/images/f12a889f2c3dc76263eb4319178524f9/tenor.gif?itemid=10630008"><img src="https://media1.tenor.com/images/f12a889f2c3dc76263eb4319178524f9/tenor.gif?itemid=10630008" width="90px" data-canonical-src="https://media1.tenor.com/images/f12a889f2c3dc76263eb4319178524f9/tenor.gif?itemid=10630008" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.twitter.com/yesilyurttemre"><img src="https://media1.tenor.com/images/f12a889f2c3dc76263eb4319178524f9/tenor.gif?itemid=10630008" width="80px" data-canonical-src="https://media1.tenor.com/images/f12a889f2c3dc76263eb4319178524f9/tenor.gif?itemid=10630008" style="max-width:100%;"></a></p>
+
+
 
 <p><a href="https://twitter.com/yesilyurttemre" rel="nofollow"><img src="https://img.shields.io/badge/-@yesilyurttemre-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/yesilyurttemre" alt="Twitter" data-canonical-src="https://img.shields.io/badge/-@yesilyurttemre-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/yesilyurttemre" style="max-width:100%;"></a> 
   
