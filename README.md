@@ -44,19 +44,18 @@
 
 
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://www.twitter.com/yesilyurttemre"><img src="https://media1.tenor.com/images/f12a889f2c3dc76263eb4319178524f9/tenor.gif?itemid=10630008" width="50px" data-canonical-src="https://media1.tenor.com/images/f12a889f2c3dc76263eb4319178524f9/tenor.gif?itemid=10630008" style="max-width:100%;">twitter.com/yesilyurttemre</a></p>
-
-
 
 <p><a href="https://twitter.com/yesilyurttemre" rel="nofollow"><img src="https://img.shields.io/badge/-@yesilyurttemre-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/yesilyurttemre" alt="Twitter" data-canonical-src="https://img.shields.io/badge/-@yesilyurttemre-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/yesilyurttemre" style="max-width:100%;"></a> 
   
  </article> 
+
+ <a href="https://www.linkedin.com/in/yesilyurtemre/" rel="nofollow"><img src="https://camo.githubusercontent.com/422798254e2d84b03ea0c2db139e0f7f6680c7a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6b7562696c61796973656e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6b7562696c61796973656e2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/yesilyurtemre/" style="max-width:100%;"></a>
+
+
+
+<a href="mailto:yesilyurttemre@gmail.com"><img src="https://github.com/emreyesilyurt/emreyesilyurt/blob/master/images/mail.png?raw=true" alt="Gmail Badge" data-canonical-src="https://github.com/emreyesilyurt/emreyesilyurt/blob/master/images/mail.png?raw=true" style="max-width:100%;"></a></p>
  <!--
- <a href="https://www.linkedin.com/in/yesilyurtemre/" rel="nofollow"><img src="https://camo.githubusercontent.com/422798254e2d84b03ea0c2db139e0f7f6680c7a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6b7562696c61796973656e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6b7562696c61796973656e2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-kubilayisen-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/kubilayisen/" style="max-width:100%;"></a>
 
-
-
-<a href="mailto:isen.kubilay@gmail.com"><img src="https://camo.githubusercontent.com/cac8c69102e95b72b3abc5fe32455625ed6123b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6973656e2e6b7562696c617940676d61696c2e636f6d2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6973656e2e6b7562696c617940676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-isen.kubilay@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:isen.kubilay@gmail.com" style="max-width:100%;"></a></p>
 <p><strong><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Currently working as:</strong> Software Engineer at <a href="https://www.pirireis.com.tr/" rel="nofollow"><b>PiriReis Bilişim</b></a></p>
 <p><strong>👨🏻‍💻 Currently working on:</strong></p>
 <p><code><a href="https://www.python.org/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/8c1b2eb1fcd35f7d645738e29b3d4ffe4f794d4b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" style="max-width:100%;"></a></code>
