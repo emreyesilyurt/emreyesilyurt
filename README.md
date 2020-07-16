@@ -47,13 +47,16 @@
 
 <p><a href="https://twitter.com/yesilyurttemre" rel="nofollow"><img src="https://img.shields.io/badge/-@yesilyurttemre-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/yesilyurttemre" alt="Twitter" data-canonical-src="https://img.shields.io/badge/-@yesilyurttemre-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/yesilyurttemre" style="max-width:100%;"></a> 
   
- </article> 
+
 
  <a href="https://www.linkedin.com/in/yesilyurtemre/" rel="nofollow"><img src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/yesilyurtemre/" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/yesilyurtemre/" style="max-width:100%;"></a>
 
 
 
 <a href="mailto:yesilyurttemre@gmail.com"><img src="https://img.shields.io/badge/-yesilyurttemre@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:yesilyurttemre@gmail.com" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurttemre@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:yesilyurttemre@gmail.com" style="max-width:100%;"></a></p>
+ 
+  </article> 
+ 
  <!--
 
 <p><strong><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Currently working as:</strong> Software Engineer at <a href="https://www.pirireis.com.tr/" rel="nofollow"><b>PiriReis Bilişim</b></a></p>
