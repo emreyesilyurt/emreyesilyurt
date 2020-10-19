@@ -1,10 +1,12 @@
  
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3><a id="user-content-hello-world" class="anchor" aria-hidden="true" href="#hello-world"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="32" height="32" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hello World! 👋</h3>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3><a id="user-content-hello-world" class="anchor" aria-hidden="true" href="#hello-world"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="32" height="32" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi Everyone 👋</h3>
 <p><a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"><img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="180" data-canonical-src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" style="max-width:100%;"></a></p>
 
 
   
-<p>Hello, I am a Management Information Systems student at Dokuz Eylul University. I am very curious about Data Science and Machine learning and I am constantly improving myself. I am developing projects on my own, trying to share instructive content in my medium and github accounts. 
+<p>I am a Management Information Systems student and a Data Science researcher.
+
+I develop machine learning and deep learning models, I enjoy learning new things and sharing what I have learned.
   
 <p><strong><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Where to find me:</strong></p>
 
