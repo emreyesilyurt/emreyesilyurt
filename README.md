@@ -4,7 +4,7 @@
 
 
   
-<p>I am a Management Information Systems student and a Data Science researcher.
+<p>I am a Management Information Systems student and Data Science researcher.
 
 I develop machine learning and deep learning models, I enjoy learning new things and sharing what I have learned.
   
