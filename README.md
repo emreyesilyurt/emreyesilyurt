@@ -4,7 +4,7 @@
 
 
   
-<p>This is Emre YESILYURT
+<p>This is <strong>Emre YESILYURT</strong>
 
 I am an ambitious Management Information Systems student at Dokuz Eylul University. I enjoy learning new things and sharing what I have learned. I have a special interest in Data Science. Currently, I am developing myself in the field of Computer Vision.
 <p><strong><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Where to find me:</strong></p>
