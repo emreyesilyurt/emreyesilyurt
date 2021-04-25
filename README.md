@@ -5,9 +5,9 @@
 
   
 <p>
-I am a passionate Management Information Systems student. I enjoy learning new things and sharing what I have learned. I have a special interest in Data Science.
+I am a Management Information Systems student who loves to learn new things and constantly improves himself.
 
-I am developing Machine Learning models and I continue to progress in the field of predictive analytics. Also, I am currently improving myself in the field of Computer Vision.
+I develop Machine Learning models and continue to advance in the field of Data Science. I usually share the models I developed on my github account. I also have a Medium account that I blog occasionally.
 <p><strong><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Where to find me:</strong></p>
 
   
