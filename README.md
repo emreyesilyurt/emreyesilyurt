@@ -7,10 +7,10 @@ I develop Machine Learning models and continue to advance in the field of Data S
 
 
 
-[![](https://img.shields.io/badge/-Twitter-bc8800?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yesilyurttemre)
-[![](https://img.shields.io/badge/-Linkedin-a87a00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesilyurtemre/)
-[![](https://img.shields.io/badge/-Kaggle-946c00?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yesilyurttemre)
-[![](https://img.shields.io/badge/-Medium-815d00?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emreyesilyurt)
-[![Mail Badge](https://img.shields.io/badge/-yesilyurttemre@gmail.com-6d4f00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yesilyurttemre@gmail.com)
+[![](https://img.shields.io/badge/-Twitter-FF5349?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yesilyurttemre)
+[![](https://img.shields.io/badge/-Linkedin-FF281B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesilyurtemre/)
+[![](https://img.shields.io/badge/-Kaggle-EC0D00?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yesilyurttemre)
+[![](https://img.shields.io/badge/-Medium-BE0A00?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emreyesilyurt)
+[![Mail Badge](https://img.shields.io/badge/-GMAIL-900800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yesilyurttemre@gmail.com)
 
 ---
