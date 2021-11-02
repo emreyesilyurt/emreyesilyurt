@@ -1,18 +1,16 @@
- 
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3><a id="user-content-hello-world" class="anchor" aria-hidden="true" href="#hello-world"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="32" height="32" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi There👋  This is <strong>Emre YESILYURT</h3> 
-
-<!--<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/emreyesilyurt/emreyesilyurt/master/gif/1.gif"><img src="https://raw.githubusercontent.com/emreyesilyurt/emreyesilyurt/master/gif/1.gif" width="180" data-canonical-src="https://raw.githubusercontent.com/emreyesilyurt/emreyesilyurt/master/gif/1.gif" style="max-width:100%;"></a></p>-->
+## **Hi There👋 I'm Emre YESILYURT**
 
 
-  
-<p>
 I am a Management Information Systems student who loves to learn new things and constantly improves himself.
 
 I develop Machine Learning models and continue to advance in the field of Data Science. I usually share the models I developed on my github account. I also have a Medium account that I blog occasionally.
-<p><strong><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Where to find me:</strong></p>
 
-  
-<p><a href="https://twitter.com/yesilyurttemre" rel="nofollow"><img src="https://img.shields.io/badge/-@yesilyurttemre-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/yesilyurttemre" alt="Twitter" data-canonical-src="https://img.shields.io/badge/-@yesilyurttemre-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/yesilyurttemre" style="max-width:100%;"></a>   <a href="https://www.linkedin.com/in/yesilyurtemre/" rel="nofollow"><img src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/yesilyurtemre/" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/yesilyurtemre/" style="max-width:100%;"></a>   <a href="https://kaggle.com/yesilyurttemre" rel="nofollow"><img src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Kaggle&amp;logoColor=white&amp;link=https://kaggle.com/yesilyurttemre" alt="Kaggle Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurtemre-blue?style=flat-square&amp;logo=Kaggle&amp;logoColor=white&amp;link=https://kaggle.com/yesilyurttemre" style="max-width:100%;"></a>   <a href="https://medium.com/@emreyesilyurt" rel="nofollow"><img src="https://img.shields.io/badge/-yesilyurtemre-black?style=flat-square&amp;logo=Medium&amp;logoColor=white&amp;link=https://medium.com/@emreyesilyurt" alt="Medium Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurtemre-red?style=flat-square&amp;logo=Medium&amp;logoColor=white&amp;link=https://medium.com/@emreyesilyurt" style="max-width:100%;"></a>   <a href="mailto:yesilyurttemre@gmail.com"><img src="https://img.shields.io/badge/-yesilyurttemre@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:yesilyurttemre@gmail.com" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-yesilyurttemre@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:yesilyurttemre@gmail.com" style="max-width:100%;"></a></p>
-  
-  </article> 
-  
+
+
+[![](https://img.shields.io/badge/-Twitter-99A3A4?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yesilyurttemre)
+[![](https://img.shields.io/badge/-Linkedin-7F8C8D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesilyurtemre/)
+[![](https://img.shields.io/badge/-Kaggle-707B7C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yesilyurttemre)
+[![](https://img.shields.io/badge/-Medium-515A5A?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emreyesilyurt)
+[![Mail Badge](https://img.shields.io/badge/-yesilyurttemre@gmail.com-424949?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yesilyurttemre@gmail.com)
+
+---
