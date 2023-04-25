@@ -3,6 +3,17 @@
 
 I'm currently working on time series forecasting, data management, and clustering algorithms.<br><br>I'm currently learning google cloud services. <br>
 
+I am a Data Engineer who adopted self-learning and tries new things constantly.<br>
+
+Recently I have been working on end-to-end data management and time series forecasting. <br>
+
+I am also researching unsupervised learning algorithms and their industrial applicability. <br>
+
+I love open-source coding, trying new approaches, and working multi-disciplinary. <br>
+
+I live in Turkey/Izmir, and you can reach me on the cards below. <br>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yesilyurttemre) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yesilyurtemre) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@emreyesilyurt) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14461315) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yesilyurttemre) 
