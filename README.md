@@ -1,8 +1,4 @@
 
-
-
-# 💫 About Me:
-
 ## **Hi There👋 I'm Emre**
 
 I'm currently working on time series forecasting, data management, and clustering algorithms.<br><br>I'm currently learning google cloud services. <br>
