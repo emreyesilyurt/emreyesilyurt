@@ -1,15 +1,13 @@
 
 ## **Hi There👋 I'm Emre**
 
-I'm currently working on time series forecasting, data management, and clustering algorithms.<br><br>I'm currently learning google cloud services. <br>
+I am a **Data Engineer** who adopted self-learning and tries new things constantly.<br>
 
-I am a Data Engineer who adopted self-learning and tries new things constantly.<br>
+Recently I have been working on **end-to-end data management** and **time series forecasting.** <br>
 
-Recently I have been working on end-to-end data management and time series forecasting. <br>
+I am also researching **unsupervised learning algorithms** and their industrial applicability. <br>
 
-I am also researching unsupervised learning algorithms and their industrial applicability. <br>
-
-I love open-source coding, trying new approaches, and working multi-disciplinary. <br>
+I love **open-source coding**, **trying new approaches**, and **working multi-disciplinary**. <br>
 
 I live in Turkey/Izmir, and you can reach me on the cards below. <br>
 
