@@ -17,8 +17,8 @@ Languages: Python, C, C++ <br>
 Cloud Computing: Google Cloud - BigQuery <br>
 Frameworks/Platforms: Anaconda - JupyterLab, Flask <br>
 ML/DL Libraries: 
-                Pandas, Numpy,SciPy, <br>
-                * Seaborn, Plotly, <br>
-                >> Scikit-Learn, TensorFlow, Keras, PyTorch <br>
+                - Pandas, Numpy,SciPy, <br>
+                - Seaborn, Plotly, <br>
+                - Scikit-Learn, TensorFlow, Keras, PyTorch <br>
 
 Other Technologies: GNU/Linux, Confluence <br>
