@@ -16,10 +16,9 @@ I am a **Data Engineer** who adopted self-learning and tries new things constant
 Languages: Python, C, C++ <br>
 Cloud Computing: Google Cloud - BigQuery <br>
 Frameworks/Platforms: Anaconda - JupyterLab, Flask <br>
-Servers: Apache <br>
 ML/DL Libraries: 
-                <div id="dataScience">Pandas, Numpy,SciPy</div>
-                * Seaborn, Plotly, 
+                Pandas, Numpy,SciPy, <br>
+                * Seaborn, Plotly, <br>
                 >> Scikit-Learn, TensorFlow, Keras, PyTorch <br>
 
 Other Technologies: GNU/Linux, Confluence <br>
