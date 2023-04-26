@@ -19,7 +19,6 @@ Frameworks/Platforms: Anaconda - JupyterLab, Flask <br>
 Servers: Apache <br>
 ML/DL Libraries: 
                 <div id="dataScience">Pandas, Numpy,SciPy</div>
-
                 * Seaborn, Plotly, 
                 >> Scikit-Learn, TensorFlow, Keras, PyTorch <br>
 
