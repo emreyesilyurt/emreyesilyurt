@@ -14,8 +14,8 @@ I am a **Data Engineer** who adopted self-learning and tries new things constant
 
 ## Tech Stack:
 Languages: Python, C, C++ <br>
-Cloud Computing: Google Cloud - BigQuery <br>
-Frameworks/Platforms: Anaconda - JupyterLab, Flask <br>
+Cloud Computing: Google Cloud -  <br>
+Frameworks/Platforms: Anaconda - JupyterLab, Flask, BigQuery, Looker <br>
 ML/DL Libraries:<br>
                 - Pandas, Numpy,SciPy, <br>
                 - Seaborn, Plotly, <br>
