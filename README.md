@@ -18,8 +18,8 @@ Cloud Computing: Google Cloud - BigQuery <br>
 Frameworks/Platforms: Anaconda - JupyterLab, Flask <br>
 Servers: Apache <br>
 ML/DL Libraries: 
-                >>Pandas, Numpy,SciPy,
-                >>Seaborn, Plotly, 
-                >>Scikit-Learn, TensorFlow, Keras, PyTorch <br>
+                * Pandas, Numpy,SciPy,
+                * Seaborn, Plotly, 
+                >> Scikit-Learn, TensorFlow, Keras, PyTorch <br>
 
 Other Technologies: GNU/Linux, Confluence <br>
