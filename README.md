@@ -1,7 +1,11 @@
 
 ## **Hi 👋 I'm Emre**
 
-An eager developer with experience developing machine learning products in Google Cloud Platform, developing end-to-end data management solutions in Python. Advocate for simplicity in problem-solving, consistently seeking usable approaches to deliver efficient and effective solutions.
+An eager developer with experience developing machine learning products in Google Cloud Platform, developing end-to-end data management solutions in Python.
+
+Currently, working on deploying and fine-tuning Large Language Models. Also developing and deploying data pipelines on the Google Cloud Platform, ensuring data consistency and accessibility.
+
+
 
 
 
