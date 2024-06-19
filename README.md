@@ -11,14 +11,11 @@ Developing and implementing AI supported decision-making systems and creating da
 
 Don't Forget!
 
-<bold>Better Data is Better Than Better Models.</bold>
+Better Data is Better Than Better Models.
 
 
 
 You can reach my social networks from the cards below.
-
-
-
 
 
 ## Socials:
@@ -30,11 +27,11 @@ You can reach my social networks from the cards below.
 
 ## Tech Stack:
 Languages: Python, C, C++ <br>
-Cloud Computing: Google Cloud <br>
-Frameworks/Platforms: Anaconda - JupyterLab, Flask, BigQuery, Looker <br>
+Cloud & Database Management: Google Cloud Platform, BigQuery, MySQL <br>
+Frameworks/Platforms: Anaconda - JupyterLab, Flask, Looker <br>
+Development Tools: GNU / Linux, Git / GitHub, Anaconda, Jupyter <br>
 ML/DL Libraries:<br>
                 - Pandas, Numpy, SciPy, Statsmodels, <br>
                 - Seaborn, Plotly, <br>
                 - Scikit-Learn, TensorFlow, Keras, PyTorch <br>
 
-Other Technologies: GNU/Linux, Confluence <br>
