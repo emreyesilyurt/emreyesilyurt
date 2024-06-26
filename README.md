@@ -24,7 +24,7 @@ Better Data is Better Than Better Models.
 
 ## Tech Stack:
 Languages: Python, C, C++ <br>
-Cloud & Database Management: Google Cloud Platform, BigQuery, MySQL <br>
+Cloud & Database Management: Google Cloud Platform, BigQuery <br>
 Frameworks/Platforms: Anaconda - JupyterLab, Flask, Looker <br>
 Development Tools: GNU / Linux, Git / GitHub, Anaconda, Jupyter <br>
 ML/DL Libraries:<br>
