@@ -25,7 +25,7 @@ Better Data is Better Than Better Models.
 
 
 ## Tech Stack:
-Programming Languages: Python, C, C++ <br>
+<strong>Programming Languages: Python, C, C++ </strong> <br>
 Data Science: Large Language Models, Machine Learning, Neural Networks, Natural Language Processing, Data Modelling, BigQuery ML, Exploratory Data Analysis, Data Visualization <br>
 Cloud & Database Management: Google Cloud Platform, BigQuery, Azure, PostgreSQL, MySQL, ETL, ELT <br>
 Libraries and Tools: Regex, Hugging Face Transformers, Hugging Face Tokenizers, SciPy, Statsmodels, TensorFlow, Keras, PyTorch, scikit-learn, XGBoost, Seaborn, Plotly, Pandas, NumPy, Matplotlib, NLTK <br>
