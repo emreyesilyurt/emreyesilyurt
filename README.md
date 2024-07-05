@@ -22,13 +22,11 @@ Better Data is Better Than Better Models.
 [![](https://img.shields.io/badge/-Medium-627697?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emreyesilyurt)
 [![Mail Badge](https://img.shields.io/badge/-GMAIL-687892?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emre@yesilyurt.dev)
 
-## Tech Stack:
-Languages: Python, C, C++ <br>
-Cloud & Database Management: Google Cloud Platform, BigQuery <br>
-Frameworks/Platforms: Anaconda - JupyterLab, Flask, Looker <br>
-Development Tools: GNU / Linux, Git / GitHub, Anaconda, Jupyter <br>
-ML/DL Libraries:<br>
-                - Pandas, Numpy, SciPy, Statsmodels, <br>
-                - Seaborn, Plotly, <br>
-                - Scikit-Learn, TensorFlow, Keras, PyTorch <br>
 
+
+## Tech Stack:
+Programming Languages: Python, C, C++ <br>
+Data Science: Large Language Models, Machine Learning, Neural Networks, Natural Language Processing, Data Modelling, BigQuery ML, Exploratory Data Analysis, Data Visualization <br>
+Cloud & Database Management: Google Cloud Platform, BigQuery, Azure, PostgreSQL, MySQL, ETL, ELT <br>
+Libraries and Tools: Regex, Hugging Face Transformers, Hugging Face Tokenizers, SciPy, Statsmodels, TensorFlow, Keras, PyTorch, scikit-learn, XGBoost, Seaborn, Plotly, Pandas, NumPy, Matplotlib, NLTK <br>
+Developer Tools: Version Control (Git),  Looker, Linux, Anaconda, VS Code, Shell Scripting <br>
