@@ -11,7 +11,7 @@ Developing and implementing AI supported decision-making systems and creating da
 
 Don't Forget!
 
-Better Data is Better Than Better Models.
+<strong>Better Data is Better Than Better Models.</strong>
 
 
 
