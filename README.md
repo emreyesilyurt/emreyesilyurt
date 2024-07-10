@@ -29,4 +29,4 @@ Don't Forget!
 <strong>Data Science:</strong> Large Language Models, Machine Learning, Neural Networks, Natural Language Processing, Data Modelling, BigQuery ML, Exploratory Data Analysis, Data Visualization <br>
 <strong>Cloud & Database Management:</strong> Google Cloud Platform, BigQuery, Azure, PostgreSQL, MySQL, ETL, ELT <br>
 <strong>Libraries and Tools:</strong> Regex, Hugging Face Transformers, Hugging Face Tokenizers, SciPy, Statsmodels, TensorFlow, Keras, PyTorch, scikit-learn, XGBoost, Seaborn, Plotly, Pandas, NumPy, Matplotlib, NLTK <br>
-<strong>Developer Tools:</strong> Version Control (Git),  Looker, Linux, Anaconda, VS Code, Shell Scripting <br>
+<strong>Developer Tools:</strong> Version Control (Git), Containerization (Docker),  Looker, Linux, Anaconda, VS Code, Shell Scripting <br>
