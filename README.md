@@ -1,11 +1,7 @@
 
 ## **Hi 👋 I'm Emre**
 
-An experimenter exploring new frontiers with AI.
-
-Currently, working in a Data Engineer position, focusing on deploying and fine-tuning Large Language Models.
-
-Developing and implementing AI supported decision-making systems and creating data pipelines on the Google Cloud Platform, ensuring data consistency and accessibility.
+I’m a versatile AI Specialist skilled in designing and deploying custom machine learning models, developing Generative AI applications to support decision-making, constructing scalable cloud-based data pipelines, and ensuring data quality, consistency, and accessibility.
 
 
 
