@@ -1,9 +1,7 @@
 
 ## **Hi 👋 I'm Emre**
 
-I’m a versatile AI Specialist skilled in designing and deploying custom machine learning models, developing Generative AI applications to support decision-making, constructing scalable cloud-based data pipelines, and ensuring data quality, consistency, and accessibility.
-
-
+Versatile AI Specialist skilled in designing and deploying custom machine learning models, developing Generative AI applications to support decision-making, constructing cloud-based data pipelines, and ensuring data quality, consistency, and accessibility.
 
 Don't Forget!
 
